@@ -1,6 +1,6 @@
-# Welcome to Remix + Vite!
+# Welcome to Remix + Shadcn UI Block Demo
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
+📖 See the [Remix docs](https://remix.run/docs) and the [Shadcn UI Block docs](https://ui.shadcn.com/blocks) for details on supported features.
 
 ## Development
 
